@@ -1,0 +1,33 @@
+{
+  "name": "HabitFlow — Minimalist Habit Tracker",
+  "short_name": "HabitFlow",
+  "description": "Track your daily habits with calm, focused consistency.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0e0f11",
+  "theme_color": "#0e0f11",
+  "orientation": "portrait",
+  "categories": ["productivity", "lifestyle"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshots/today.png",
+      "sizes": "390x844",
+      "type": "image/png",
+      "label": "Today's habits"
+    }
+  ]
+}
