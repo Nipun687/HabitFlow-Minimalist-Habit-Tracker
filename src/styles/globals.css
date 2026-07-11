@@ -2,6 +2,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@media (max-width: 768px) {
+    /* mobile styles */
+}
 
 /* ─── CSS VARIABLES ──────────────────────────────────────────────────── */
 :root {
